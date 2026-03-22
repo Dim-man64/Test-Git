@@ -1,3 +1,3 @@
 # Hello, world!
-I study in Netologi
+I study in Netology
 22.03.2026
